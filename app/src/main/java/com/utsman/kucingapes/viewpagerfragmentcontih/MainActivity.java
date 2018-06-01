@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
         BubblePageIndicator pageIndicator = findViewById(R.id.indicator);
         pageIndicator.setViewPager(viewPager);
 
+        //tes
+
     }
 
     @Override
