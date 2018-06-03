@@ -11,6 +11,8 @@ public class Utama extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_utama);
+
+        // tesss
     }
 
     public void slide1(View view) {
